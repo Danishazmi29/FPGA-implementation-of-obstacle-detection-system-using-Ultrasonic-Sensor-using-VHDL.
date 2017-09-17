@@ -1,0 +1,2 @@
+# FPGA-implementation-of-obstacle-detection-system-using-Ultrasonic-Sensor-using-VHDL.
+In this project, an ultrasonic sensor has been interfaced with spartan 3E FPGA board. (Digilent Basys2 Board). This system basically an obstacle detection system which detects an obstacle comes under the range of ultrasonic sensor. In this project I have set the detection distance of 15 cm. Entire system has been implemented using VHDL.
