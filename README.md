@@ -1,2 +1,37 @@
-# FPGA-implementation-of-obstacle-detection-system-using-Ultrasonic-Sensor-using-VHDL.
-In this project, an ultrasonic sensor has been interfaced with spartan 3E FPGA board. (Digilent Basys2 Board). This system basically an obstacle detection system which detects an obstacle comes under the range of ultrasonic sensor. In this project I have set the detection distance of 15 cm. Entire system has been implemented using VHDL.
+## Welcome to GitHub Pages
+
+You can use the [editor on GitHub](https://github.com/Danishazmi29/FPGA-implementation-of-obstacle-detection-system-using-Ultrasonic-Sensor-using-VHDL./edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+### Markdown
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+```markdown
+Syntax highlighted code block
+
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Danishazmi29/FPGA-implementation-of-obstacle-detection-system-using-Ultrasonic-Sensor-using-VHDL./settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
